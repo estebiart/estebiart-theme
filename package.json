@@ -1,0 +1,30 @@
+{
+  "name": "estebiart-theme",
+  "displayName": "estebiart-theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "estebiart",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/estebiart/estebiart-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "estebiart-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/estebiart-theme-color-theme.json"
+      }
+    ]
+  },
+  "license": "License.txt",
+  "dependencies": {
+    "@vscode/vsce": "^2.26.0"
+  }
+}
