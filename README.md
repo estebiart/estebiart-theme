@@ -1,17 +1,30 @@
-# estebiart-theme README
+# Estebiart Theme
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Description
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This is the "Estebiart" theme, designed with good accessibility practices and color contrast.
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
-# estebiart-theme
+## Installation
+
+You can install the theme directly from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=estebiart.estebiart-theme).
+
+## Features
+
+- Good accessibility practices.
+- Optimized color contrast.
+- Modern and clean style.
+
+## Contributions
+
+If you encounter any issues or have suggestions for improvement, feel free to open an [issue](https://github.com/estebiart/estebiart-theme/issues) or submit a [pull request](https://github.com/estebiart/estebiart-theme/pulls) on GitHub.
+
+## Credits
+
+This theme was created by [Estebiart](https://github.com/estebiart).
+
+## License
+
+This theme is licensed under the [MIT License](LICENSE).
